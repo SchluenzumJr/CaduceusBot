@@ -153,7 +153,7 @@ namespace CaduceusBot
 
             discord.ExecuteAndWait(async () =>
             {
-                await discord.Connect("MjQxNjkzMjI2ODAzNzg5ODI1.CwpVPw.1iuXnUt16Rspy5XuO9tdT8-wQHA", TokenType.Bot);
+                await discord.Connect("kein-random-string-mehr-damit-jannik-zufrieden-ist", TokenType.Bot);
             });
 
         }
